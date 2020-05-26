@@ -1,0 +1,25 @@
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\bin\Debug\At_yarisi.exe.config
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\bin\Debug\At_yarisi.exe
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\bin\Debug\At_yarisi.pdb
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csprojAssemblyReference.cache
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.Form1.resources
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.Properties.Resources.resources
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csproj.GenerateResource.cache
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csproj.CoreCompileInputs.cache
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.exe
+C:\Users\p-\Desktop\C# Murat Yücedağ\At_yarisi\At_yarisi\obj\Debug\At_yarisi.pdb
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\bin\Debug\At_yarisi.exe.config
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\bin\Debug\At_yarisi.exe
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\bin\Debug\At_yarisi.pdb
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csprojAssemblyReference.cache
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csproj.ResolveComReference.cache
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.Form1.resources
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.Properties.Resources.resources
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csproj.GenerateResource.cache
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.csproj.CoreCompileInputs.cache
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.exe
+C:\Users\p-\Desktop\At_yarisi\At_yarisi\obj\Debug\At_yarisi.pdb
